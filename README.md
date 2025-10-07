@@ -3,7 +3,7 @@
 ### Atualmente trabalho na administração do banco de dados da loja de bicicletas Liberty Bike Motos.
 
 ### Tenho conhecimento em inglês intermediário-avançado.
-### Tenho prática em word e excel.
+### Tenho prática em Word e Excel.
 
 Projeto Atual:
 [Oasiss](https://github.com/bbrinsJoy/Oasiss):
