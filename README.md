@@ -6,11 +6,11 @@
 ### Tenho prática em Word e Excel.
 
 Projeto Atual:
-*[Oasiss](https://github.com/bbrinsJoy/Oasiss):*
+**[Oasiss](https://github.com/bbrinsJoy/Oasiss):**
 site para apresentar um serviço de locação de imóveis(imaginário)
 
 Último Projeto Desenvolvido:
-*[Projeto](https://github.com/FrancescoGris/portfolio):*
+**[Projeto](https://github.com/FrancescoGris/portfolio):**
 site para apresentar um serviço de design de sobrancelhas
 
 
