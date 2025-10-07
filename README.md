@@ -15,7 +15,7 @@ site para apresentar um serviço de design de sobrancelhas
 
 
 ## Minhas redes sociais
-[Instagram](https://www.instagram.com/fran_grisf/)
-[LinkedIn](https://www.linkedin.com/in/francesco-gris-053092355/)
+[Instagram](https://www.instagram.com/fran_grisf/),
+[LinkedIn](https://www.linkedin.com/in/francesco-gris-053092355/) e
 [Facebook](https://www.facebook.com/profile.php?id=61573676675231)
 
