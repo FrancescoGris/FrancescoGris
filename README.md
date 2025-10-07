@@ -1,5 +1,4 @@
-# Olá 👋
-## Meu nome é Francesco, estou cursando faculdade de Análise e Desenvolvimento de Sistemas no centro universitário Integrado, Campo Mourão.
+## Olá! Meu nome é Francesco, estou cursando faculdade de Análise e Desenvolvimento de Sistemas no centro universitário Integrado, Campo Mourão.
 
 ### Atualmente trabalho na administração do banco de dados da loja de bicicletas Liberty Bike Motos.
 
