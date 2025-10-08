@@ -15,7 +15,7 @@ Site para apresentar um serviço de locação de imóveis(imaginário);
 Site para apresentar um serviço de design de sobrancelhas;
 
 **[Projeto The Hat Below](https://github.com/FrancescoGris/Jogo-Integrado):**
-site para apresentar um jogo low code;
+Site para apresentar um jogo low code;
 
 
 ## Minhas redes sociais
