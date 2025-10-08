@@ -6,11 +6,11 @@
 ### Tenho conhecimento em inglês intermediário-avançado.✍️
 ### Tenho prática em Word e Excel.📄
 
-## Projeto Atual:
+## Projeto Atual
 **[Oasiss](https://github.com/bbrinsJoy/Oasiss):**
 Site para apresentar um serviço de locação de imóveis(imaginário);
 
-## Últimos Projetos Desenvolvidos:
+## Últimos Projetos Desenvolvidos
 **[Projeto Laura Designer](https://github.com/FrancescoGris/portfolio):**
 Site para apresentar um serviço de design de sobrancelhas;
 
