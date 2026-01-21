@@ -1,10 +1,8 @@
-## Olá! Meu nome é Francesco Gris👋
-### Estou cursando Análise e Desenvolvimento de Sistemas no centro universitário Integrado, Campo Mourão.
+## Olá! Meu nome é Francesco Gris 👋
+### Cursando Análise e Desenvolvimento de Sistemas no Centro Universitário Integrado, Campo Mourão.
 
-### Atualmente trabalho na administração do banco de dados da loja de bicicletas Liberty Bike Motos.🚲
-
-### Tenho conhecimento em inglês intermediário-avançado.✍️
-### Tenho prática em Word e Excel.📄
+### Inglês intermediário-avançado.✍️
+### Certificado de Word e Excel.📄
 
 ## Projeto Atual
 **[Oasiss](https://github.com/bbrinsJoy/Oasiss):**
