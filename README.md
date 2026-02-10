@@ -1,4 +1,4 @@
-## Olá! Meu nome é Francesco Gris 👋
+# Olá! Meu nome é Francesco Gris 👋
 ### Cursando Análise e Desenvolvimento de Sistemas no Centro Universitário Integrado.
 
 ### Inglês Avançado.✍️
