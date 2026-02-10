@@ -2,7 +2,7 @@
 ### Cursando Análise e Desenvolvimento de Sistemas no Centro Universitário Integrado.
 
 ### Inglês Avançado.✍️
-### Formação Pacote Office - Word e Excel.📄
+### Certificado de Word e Excel.📄
 
 ## Últimos Projetos
 
@@ -21,7 +21,11 @@ Site para apresentar um jogo low code - Html, CSS;
 <a href="https://www.instagram.com/fran_grisf/" target="_blank">
   <img src="https://cdn.simpleicons.org/instagram/2563EB" width="40" />
 </a>
+<a href="https://www.linkedin.com/in/francesco-gris-053092355/" target="_blank">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" />
+</a>
 
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Follow Raymo111 on LinkedIn"/>]([https://linkedin.com/in/Raymo111](https://www.linkedin.com/in/francesco-gris-053092355/))
+
+
 
 
