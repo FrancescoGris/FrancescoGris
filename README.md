@@ -1,12 +1,10 @@
-# Olá! Meu nome é Francesco Gris 👋
-### Cursando Análise e Desenvolvimento de Sistemas no Centro Universitário Integrado.
+<h1>Olá! Meu nome é Francesco Gris</h1>
 
-<h1>Francesco Gris</h1>
 
-### Inglês Avançado.✍️
-### Certificado de Word e Excel.📄
+<h4>Inglês Avançado.</h4>
+<h4>Certificado de Word e Excel.📄</h4>
 
-## Últimos Projetos
+<h2> Últimos Projetos</h2>
 
 **[Oasiss](https://github.com/bbrinsJoy/Oasiss):**
 Site para apresentar um serviço de locação de imóveis - PHP com MVC, SQL, Dashboards;
@@ -18,14 +16,15 @@ Site para apresentar um serviço de design de sobrancelhas - PHP, Html, CSS;
 Site para apresentar um jogo low code - Html, CSS;
 
 
-## Minhas redes sociais
+<h2>Minhas redes sociais</h2>
 
 <a href="https://www.instagram.com/fran_grisf/" target="_blank">
   <img src="https://cdn.simpleicons.org/instagram/2563EB" width="40" />
 </a>
 
-<a href="https://www.linkedin.com/in/francesco-gris-053092355/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
+<a href="https://www.linkedin.com/in/francesco-gris-053092355/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/120px-LinkedIn_icon.svg.png?20210220164014" width="40">
+</a>
 
 
 
