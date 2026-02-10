@@ -21,8 +21,8 @@ Site para apresentar um jogo low code - Html, CSS;
 <a href="https://www.instagram.com/fran_grisf/" target="_blank">
   <img src="https://cdn.simpleicons.org/instagram/2563EB" width="40" />
 </a>
-[![LinkedIn](https://cdn.simpleicons.org/linkedin/0A66C2)](https://www.linkedin.com/in/francesco-gris-053092355/)
 
+<a href="https://www.linkedin.com/in/francesco-gris-053092355/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
 
