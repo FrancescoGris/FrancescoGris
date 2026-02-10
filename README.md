@@ -2,7 +2,7 @@
 ### Cursando Análise e Desenvolvimento de Sistemas no Centro Universitário Integrado.
 
 ### Inglês Avançado.✍️
-### Certificado de Word e Excel.📄
+### Formação Pacote Office - Word e Excel.📄
 
 ## Últimos Projetos
 
