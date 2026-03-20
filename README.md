@@ -54,17 +54,6 @@ Cursando · 3º período de 5 · Previsão de conclusão: 2027
 
 ---
 
-## 🚀 Projetos em destaque
-
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| [🥟 E-commerce de Salgados](https://github.com/FrancescoGris/EstacaoDoFornoFront) | Frontend de e-commerce desenvolvido como projeto universitário de TADS | React, JS |
-| [🗺️ Mapa de Transportadoras](https://github.com/FrancescoGris/TransportadorasBrasil) | Plataforma interativa com mapa SVG do Brasil para identificação de transportadoras por estado | HTML, CSS, JS |
-| [💆 Clínica de Sobrancelhas](https://github.com/FrancescoGris/Designer-Projeto) | Site institucional para clínica de design de sobrancelhas | HTML, CSS, JS |
-| [🎮 Game Page](https://github.com/FrancescoGris/Jogo-low-code) | Página de apresentação para jogo desenvolvido em plataforma low-code | HTML, CSS |
-
----
-
 ## 🎯 Objetivo
 
 Construindo um portfólio sólido como desenvolvedor fullstack e aberto a projetos freelance. Se você precisa de um site institucional, landing page ou sistema web — **vamos conversar!**
