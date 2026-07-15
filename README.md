@@ -8,7 +8,7 @@ Sou desenvolvedor fullstack com experiência prática em projetos web reais, do 
 
 Também tenho **inglês avançado** e **certificação em Microsoft Word e Excel**, o que amplia minha atuação em projetos que exigem comunicação técnica e gestão de dados.
 
-Estou aberto a projetos **freelance** e oportunidades de trabalho — se você precisa de um site, sistema web ou landing page, vamos conversar!
+Estou aberto a projetos **freelance** e oportunidades de trabalho; se você precisa de um site, sistema web ou landing page, vamos conversar!
 
 ---
 
@@ -70,7 +70,7 @@ Descrição curta e objetiva do que o projeto faz e qual problema resolve.
 ---
 
 ## 🎯 Objetivo
-Construindo um portfólio sólido como desenvolvedor fullstack, aberto a projetos freelance e oportunidades de trabalho. Se você precisa de um site institucional, landing page ou sistema web — **vamos conversar!**
+Construindo um portfólio sólido como desenvolvedor fullstack, aberto a projetos freelance e oportunidades de trabalho. Se você precisa de um site institucional, landing page ou sistema web; **vamos conversar!**
 
 ---
 
