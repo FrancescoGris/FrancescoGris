@@ -13,8 +13,7 @@ Estou aberto a projetos **freelance** e oportunidades de trabalho. se você prec
 ---
 
 ## 🎓 Formação
-**Tecnologia em Análise e Desenvolvimento de Sistemas**
-Centro Universitário Integrado
+**Tecnologia em Análise e Desenvolvimento de Sistemas** - Centro Universitário Integrado
 
 ---
 
